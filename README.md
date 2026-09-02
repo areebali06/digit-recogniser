@@ -54,14 +54,22 @@ Technologies:
 Installation:
 
   Clone the repository:
+  ```text
   git clone https://github.com/areebali06/digit-recogniser.git
+  ```
 
   Move into the project folder:
-  ```cd digit-recogniser```
+  ```text
+  cd digit-recogniser
+```
 
   Install the required packages:
-  ```python -m pip install numpy torch torchvision pygame pillow```
+  ```text
+  python -m pip install numpy torch torchvision pygame pillow
+```
 
   Run:
-  ```python -m pip install numpy torch torchvision pygame pillow```
+  ```text
+  python -m pip install numpy torch torchvision pygame pillow
+  ```
 
